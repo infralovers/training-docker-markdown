@@ -1,3 +1,18 @@
+## 1.0.1 (2026-03-04)
+
+#### Bug Fixes
+
+* disable arm64 (a93826e6)
+* update node version (667efaaf)
+* update workflow (1502228a)
+* Change workflow (573d701a)
+* Change workflow (314ea3cc)
+
+#### Chores
+
+* **ci:** commit changes from go-semantic-release (397a6c27)
+
+
 ## 1.0.0 (2023-03-20)
 
 #### Bug Fixes

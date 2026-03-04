@@ -1,3 +1,3 @@
-FROM node:19
+FROM node:25
 
-RUN npm install markdown-pdf markdownlint-cli -g --unsafe-perm
+RUN npm install -g markdown-pdf markdownlint-cli
